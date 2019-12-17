@@ -1,59 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3faf87a4-df2c-4cc3-a086-5dcc3c63fd94" name="Default Changelist" comment="">
+    <list default="true" id="7d3e88b6-e0c2-4c48-85c7-bfa0da0f9a93" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/com/afifny/pbo/pertemuan1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/afifny/pbo/pewarisan/hitung/lingkaran/Lingkaran.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/afifny/pbo/pewarisan/hitung/lingkaran/Luas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/afifny/pbo/pewarisan/hitung/lingkaran/PewarisanLingkaran.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/afifny/pbo/pewarisan/hitung/lingkaran/Volume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/afifny/uts/soal1/Dokter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/afifny/uts/soal1/dokterBeraksi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/afifny/uts/soal3/EnkapsulasiMemoriHp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/afifny/uts/soal3/MemoriHp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/latih/asosiasi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/latih/asosiasi/Pegawai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/latih/asosiasi/Surat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/latih/film/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/latih/film/FilmTayang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/latih/film/Genre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/latih/pegawai/Pegawai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/latih/pegawai/Pegawai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/latih/pegawai/PoliPegawai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/tumbuhan/PackageTumbuhan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PrakPBO/META-INF/PrakPBO.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrakPBO/META-INF/PrakPBO.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PrakPBO/com/afifny/pbo/asosiasi/oranggadget/OrangGadget.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrakPBO/com/afifny/pbo/asosiasi/oranggadget/OrangGadget.class" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/com/afifny/pbo/pertemuan1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
-  </component>
-  <component name="ProjectId" id="1RsQJCQd4OOVnWyiZwVeeG7jznC" />
+  <component name="ProjectId" id="1USeGBYt9DJQnb96fgVLqdlwqjC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="last_opened_file_path" value="/media/afif/FD" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.OrangGadget">
-    <configuration name="OrangGadget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.afifny.pbo.asosiasi.oranggadget.OrangGadget" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="FilmTayang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.latih.film.FilmTayang" />
       <module name="PrakPBO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.afifny.pbo.asosiasi.oranggadget.*" />
+          <option name="PATTERN" value="id.latih.film.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrangMobil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.afifny.pbo.asosiasi.orangmobil.OrangMobil" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.latih.asosiasi.Main" />
       <module name="PrakPBO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.afifny.pbo.asosiasi.orangmobil.*" />
+          <option name="PATTERN" value="id.latih.asosiasi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pewarisanhewan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.afifny.pbo.pewarisan.Pewarisanhewan" />
+    <configuration name="PoliPegawai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.latih.pegawai.PoliPegawai" />
       <module name="PrakPBO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.afifny.pbo.pewarisan.*" />
+          <option name="PATTERN" value="id.latih.pegawai.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,41 +125,80 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OrangGadget" />
-        <item itemvalue="Application.OrangMobil" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PoliPegawai" />
         <item itemvalue="Application.PolimorfismeMahasiswa" />
+        <item itemvalue="Application.FilmTayang" />
         <item itemvalue="Application.PolimorfismeHewan" />
-        <item itemvalue="Application.Pewarisanhewan" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3faf87a4-df2c-4cc3-a086-5dcc3c63fd94" name="Default Changelist" comment="" />
-      <created>1570453249854</created>
+      <changelist id="7d3e88b6-e0c2-4c48-85c7-bfa0da0f9a93" name="Default Changelist" comment="" />
+      <created>1575354326085</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570453249854</updated>
+      <updated>1575354326085</updated>
     </task>
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="WindowStateProjectService">
+    <state x="491" y="115" width="374" height="558" key="#com.intellij.ide.util.MemberChooser" timestamp="1576547330520">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="491" y="115" width="374" height="558" key="#com.intellij.ide.util.MemberChooser/0.24.1366.744@0.24.1366.744" timestamp="1576547330520" />
+    <state x="466" y="126" width="424" height="536" key="FileChooserDialogImpl" timestamp="1576486092220">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="466" y="126" width="424" height="536" key="FileChooserDialogImpl/0.24.1366.744@0.24.1366.744" timestamp="1576486092220" />
+    <state width="1324" height="185" key="GridCell.Tab.0.bottom" timestamp="1576547900706">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1324" height="185" key="GridCell.Tab.0.bottom/0.24.1366.744@0.24.1366.744" timestamp="1576547900706" />
+    <state width="1324" height="185" key="GridCell.Tab.0.center" timestamp="1576547900705">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1324" height="185" key="GridCell.Tab.0.center/0.24.1366.744@0.24.1366.744" timestamp="1576547900705" />
+    <state width="1324" height="185" key="GridCell.Tab.0.left" timestamp="1576547900704">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1324" height="185" key="GridCell.Tab.0.left/0.24.1366.744@0.24.1366.744" timestamp="1576547900704" />
+    <state width="1324" height="185" key="GridCell.Tab.0.right" timestamp="1576547900706">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1324" height="185" key="GridCell.Tab.0.right/0.24.1366.744@0.24.1366.744" timestamp="1576547900706" />
+    <state x="187" y="31" key="SettingsEditor" timestamp="1576483404421">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="187" y="31" key="SettingsEditor/0.24.1366.744@0.24.1366.744" timestamp="1576483404421" />
+    <state x="368" y="223" key="com.intellij.ide.util.TipDialog" timestamp="1576482664486">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="368" y="223" key="com.intellij.ide.util.TipDialog/0.24.1366.744@0.24.1366.744" timestamp="1576482664486" />
+    <state x="55" y="24" width="1246" height="740" key="new project wizard" timestamp="1575354544699">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="55" y="24" width="1246" height="740" key="new project wizard/0.24.1366.744@0.24.1366.744" timestamp="1575354544699" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PrakPBO$PolimorfismeHewan.ic" NAME="PolimorfismeHewan Coverage Results" MODIFIED="1576484416144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.afifny.pbo.polimorfisme.*</FILTER>
+    </SUITE>
   </component>
 </project>
